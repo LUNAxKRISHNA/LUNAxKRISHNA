@@ -4,7 +4,7 @@
   
   ### 👨‍💻 Computer Science Student | AI Enthusiast | Frugal Innovator
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnak_535)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnak_535/)
 </div>
 
 ---
