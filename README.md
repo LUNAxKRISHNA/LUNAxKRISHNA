@@ -2,7 +2,7 @@
   
   # 👋 Hey there, I'm Krishna K
   
-  ### 👨‍💻 Computer Science Student | AI Enthusiast | Sustainable Innovation Advocate
+  ### 👨‍💻 Computer Science Student | AI Enthusiast | Frugal Innovator
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnak_535)
 </div>
