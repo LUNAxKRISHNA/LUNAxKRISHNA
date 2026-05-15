@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="banner.png" alt="Krishna K Banner" width="100%">
   
   # 👋 Hey there, I'm Krishna K
   
