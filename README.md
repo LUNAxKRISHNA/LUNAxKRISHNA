@@ -115,22 +115,19 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-dark.svg" />
-    <img src="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-light.svg" width="100%" alt="Contribution graph, surveyed by the Dhruva AUV" />
-  </picture>
-</p>
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_border=true&bg_color=00000000&title_color=F28482&text_color=E6EDF3&icon_color=84A59D&ring_color=F6BD60" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_border=true&bg_color=00000000&title_color=F28482&text_color=1F2328&icon_color=84A59D&ring_color=F6BD60" height="165" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=F28482&icon_color=84A59D&text_color=E6EDF3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=F28482&icon_color=84A59D&text_color=1F2328" height="150" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-dark.svg" />
+  <img src="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-light.svg" height="150" alt="Contribution graph, surveyed by the Dhruva AUV" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=E6EDF3" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=1F2328" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=1F2328" height="150" alt="Top languages" />
 </picture>
 
 <br/><br/>
@@ -138,4 +135,3 @@
 <sub>Let's build something impactful → <a href="mailto:krishnak535@outlook.com">krishnak535@outlook.com</a></sub>
 
 </div>
-localhost:8773/preview-light.html

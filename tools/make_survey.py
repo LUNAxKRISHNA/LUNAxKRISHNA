@@ -15,10 +15,10 @@ from pathlib import Path
 
 import dhruva
 
-WEEKS = 24
+WEEKS = 16
 CELL, GAP = 22, 4
 PITCH = CELL + GAP
-MARGIN_X, MARGIN_TOP, MARGIN_BOTTOM = 80, 52, 76
+MARGIN_X, MARGIN_TOP, MARGIN_BOTTOM = 60, 52, 50
 OVERSHOOT = 56          # how far past the grid the AUV runs before turning
 PASS_TIME = 2.4         # seconds per row
 HOLD, FADE = 2.5, 0.8   # finished grid stays up, then fades for the next loop
@@ -26,9 +26,9 @@ AUV_SCALE = 0.085
 
 THEMES = {
     'light': {'empty': '#ebedf0', 'levels': ['#cfe0dc', '#a9c6bf', '#84a59d', '#5e8279'],
-              'text': '#59636E', 'beam': '#84A59D'},
+              'beam': '#84A59D'},
     'dark': {'empty': '#161b22', 'levels': ['#2a3a37', '#46655e', '#84a59d', '#b5cfc8'],
-             'text': '#9198A1', 'beam': '#b5cfc8'},
+             'beam': '#b5cfc8'},
 }
 
 
@@ -110,11 +110,10 @@ def build(days, theme):
 
     dates = sorted(d[2] for d in days.values())
     total = sum(d[1] for d in days.values())
-    caption = f'{total:,} contributions · {month(dates[0])} – {month(dates[-1])} · surveyed daily by Dhruva'
+    caption = f'{total:,} contributions, {month(dates[0])} – {month(dates[-1])}, surveyed by Dhruva'
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Contribution graph: {caption}">
 {"".join(rects)}
 {auv}
-<text x="{W / 2}" y="{H - 12}" text-anchor="middle" fill="{t["text"]}" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">{caption}</text>
 </svg>
 '''
 
