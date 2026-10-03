@@ -44,10 +44,6 @@
       <b>🤖 Robotics Intern</b> · Oceanic AI Centre, CVV<br/>
       <sub>Underwater computer vision with OpenCV + YOLOv8n, PyMAVLink control, depth/IMU sensor fusion.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/2025_%E2%80%93_26-F6BD60?style=flat-square" alt="2025 to 2026" /><br/>
-      <b>🚀 Student Head</b> · Chinmaya Innovation & Business Incubation Centre<br/>
-      <sub>Also Student Lead at IEDC, CVV.</sub>
-      <br/><br/>
       <img src="https://img.shields.io/badge/MAY_%E2%80%93_AUG_2026-F5CAC3?style=flat-square" alt="May to August 2026" /><br/>
       <b>💼 Project Intern</b> · Nvish Solutions (remote)<br/>
       <sub>Backend APIs, AI-assisted development workflows and enterprise QA.</sub>
@@ -111,6 +107,20 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/heading-activity-dark.svg" />
+    <img src="assets/heading-activity-light.svg" alt="Activity" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-dark.svg" />
+    <img src="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-light.svg" width="100%" alt="Contribution graph, surveyed by the Dhruva AUV" />
+  </picture>
+</p>
 
 <div align="center">
 
