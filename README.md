@@ -117,18 +117,27 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=F28482&icon_color=84A59D&text_color=E6EDF3" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=F28482&icon_color=84A59D&text_color=1F2328" height="150" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-dark.svg" />
-  <img src="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-light.svg" height="150" alt="Contribution graph, surveyed by the Dhruva AUV" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=E6EDF3" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=1F2328" height="150" alt="Top languages" />
-</picture>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=F28482&icon_color=84A59D&text_color=E6EDF3" />
+        <img src="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=F28482&icon_color=84A59D&text_color=1F2328" height="150" alt="GitHub stats" />
+      </picture>
+      <br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=E6EDF3" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=1F2328" height="150" alt="Top languages" />
+      </picture>
+    </td>
+    <td align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-dark.svg" />
+        <img src="https://raw.githubusercontent.com/LUNAxKRISHNA/LUNAxKRISHNA/output/survey-light.svg" height="300" alt="Contribution graph, surveyed by the Dhruva AUV" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 

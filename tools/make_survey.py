@@ -15,7 +15,7 @@ from pathlib import Path
 
 import dhruva
 
-WEEKS = 16
+WEEKS = 12
 CELL, GAP = 22, 4
 PITCH = CELL + GAP
 MARGIN_X, MARGIN_TOP, MARGIN_BOTTOM = 60, 52, 50
