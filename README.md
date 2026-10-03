@@ -1,81 +1,23 @@
-<div align="center">
-  
-  # 👋 Hey there, I'm Krishna K
-  
-  ### 👨‍💻 Computer Science Student | AI Enthusiast | Frugal Innovator
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnak_535/)
-</div>
-
----
-
-### 🚀 About Me
-
-I am a B.Tech Computer Science student at **Chinmaya Vishwa Vidyapeeth** (Class of 2027), deeply passionate about building software that makes a difference. My interests span from high-performance creative tools to eco-friendly innovations.
-
-### 🌱 Currently Working On
-
-- 🚍 **College Bus Tracker**: A real-time location and ETA system for campus commuting.
-- 🌿 **FlowMint**: A suite of high-performance tools designed to automate complex creative tasks, featuring a flagship bulk generation engine.
-- 🪴 **FibreNova**: Developing sustainable, eco-friendly materials from pineapple leaf fibers.
-
-### 🛠️ Tech Stack
-
-<details open>
-  <summary><b>Languages & Core</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-</details>
-
-<details open>
-  <summary><b>Frameworks & Libraries</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-</details>
-
-<details open>
-  <summary><b>Design & Creative</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-</details>
-
-<details open>
-  <summary><b>Tools & Platforms</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/>
-</details>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LUNAxKRISHNA&theme=dark&hide_border=false" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-</div>
+<div align="center"> <a href="https://krishna535.vercel.app/"> <img src="https://krishna535.vercel.app/hero-character.webp" alt="Krishna K" width="420" /> </a> <a href="https://krishna535.vercel.app/"> <img src="https://readme-typing-svg.demolab.com?font=Six+Caps&size=64&duration=2600&pause=900&color=F28482&center=true&vCenter=true&width=700&height=90&lines=KRISHNA+K;ROBOTICS+%C2%B7+IOT+%C2%B7+SYSTEMS;I+BUILD+THINGS+THAT+MOVE" alt="Krishna K - Robotics, IoT, Systems" /> </a>
+Systems-oriented CS engineer, building robots and the software around them.<br/> Perception · sensor fusion · embedded control · backend APIs · mobile apps
 
 <br/>
+<a href="https://krishna535.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F28482?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/krishnak535"><img src="https://img.shields.io/badge/LinkedIn-84A59D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:krishnak535@outlook.com"><img src="https://img.shields.io/badge/Email-F6BD60?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a> <a href="https://krishna535.vercel.app/Krishna-K-Resume.pdf"><img src="https://img.shields.io/badge/Resume-F5CAC3?style=for-the-badge&logo=readdotcv&logoColor=20201E" alt="Resume" /></a>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LUNAxKRISHNA&icon=1&color=8" alt="Visitor Count" />
-  </a>
+</div> <br/>
+⟶ Right now
+I'm a B.Tech Computer Science student at Chinmaya Vishwa Vidyapeeth (Class of 2027). Most of my time goes to Team Chinmaya AUV, which I lead. We build autonomous underwater vehicles for the Singapore AUV Challenge, and I work on the vision, sensor fusion and Pixhawk-based navigation.
+
+🌊 Robotics Intern at Oceanic AI Centre, CVV: underwater CV with OpenCV + YOLOv8n, PyMAVLink control, depth/IMU fusion
+💼 Project Intern at Nvish Solutions: backend APIs, AI-assisted dev workflows and enterprise QA
+🚀 Student Head at Chinmaya Innovation & Business Incubation Centre, and Student Lead at IEDC, CVV
+<br/>
+⟶ Selected work
+<table> <tr> <td width="25%" valign="top"> <img src="https://img.shields.io/badge/AUV-84A59D?style=flat-square" alt="AUV" /><br/> <h3>🤿 Dhruva & Pragna</h3> <sub>Autonomous underwater vehicles for SAUVC. YOLOv8n vision, sensor fusion, Pixhawk navigation.</sub> <br/><br/> <a href="https://github.com/cvv-sauvc/SAUVC2026"><b>View repo ↗</b></a> </td> <td width="25%" valign="top"> <img src="https://img.shields.io/badge/IoT-F28482?style=flat-square" alt="IoT" /><br/> <h3>🚌 Vahan Mitra</h3> <sub>Real-time college bus tracking. Custom GPS module → MQTT → FastAPI → Flutter app.</sub> <br/><br/> <a href="https://github.com/LUNAxKRISHNA/Vahan_Mitra"><b>View repo ↗</b></a> </td> <td width="25%" valign="top"> <img src="https://img.shields.io/badge/Logistics-F5CAC3?style=flat-square" alt="Logistics" /><br/> <h3>📦 Loopit</h3> <sub>Inter-campus parcel dispatch with QR handovers, live status and push notifications.</sub> <br/><br/> <a href="https://github.com/LUNAxKRISHNA/loopit"><b>View repo ↗</b></a> </td> <td width="25%" valign="top"> <img src="https://img.shields.io/badge/Automation-F6BD60?style=flat-square" alt="Automation" /><br/> <h3>📄 IEDC DocGen</h3> <sub>Template-driven document generation with secure, role-based access.</sub> <br/><br/> <a href="https://github.com/LUNAxKRISHNA/IEDC_DocGen"><b>View repo ↗</b></a> </td> </tr> </table> <br/>
+⟶ Toolkit
+<table> <tr> <td width="190" valign="middle"><img src="https://img.shields.io/badge/ROBOTICS_&_VISION-F28482?style=for-the-badge" alt="Robotics & Vision" /></td> <td> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,raspberrypi,arduino&theme=dark" /> <img src="https://skillicons.dev/icons?i=opencv,raspberrypi,arduino&theme=light" alt="OpenCV, Raspberry Pi, Arduino" /> </picture> <br/><sub>YOLOv8 · Pixhawk · PyMAVLink · OAK-D Lite · Fusion 360</sub> </td> </tr> <tr> <td width="190" valign="middle"><img src="https://img.shields.io/badge/APPS_&_BACKEND-84A59D?style=for-the-badge" alt="Apps & Backend" /></td> <td> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,react,fastapi,postgres,supabase,firebase,docker&theme=dark" /> <img src="https://skillicons.dev/icons?i=flutter,react,fastapi,postgres,supabase,firebase,docker&theme=light" alt="Flutter, React, FastAPI, PostgreSQL, Supabase, Firebase, Docker" /> </picture> <br/><sub>MQTT · React Native · REST APIs</sub> </td> </tr> <tr> <td width="190" valign="middle"><img src="https://img.shields.io/badge/LANGUAGES-F6BD60?style=for-the-badge" alt="Languages" /></td> <td> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,dart,c,java&theme=dark" /> <img src="https://skillicons.dev/icons?i=py,ts,js,dart,c,java&theme=light" alt="Python, TypeScript, JavaScript, Dart, C, Java" /> </picture> </td> </tr> <tr> <td width="190" valign="middle"><img src="https://img.shields.io/badge/DESIGN_&_TOOLS-F5CAC3?style=for-the-badge" alt="Design & Tools" /></td> <td> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,ps,ai,git,github,linux&theme=dark" /> <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,linux&theme=light" alt="Figma, Photoshop, Illustrator, Git, GitHub, Linux" /> </picture> </td> </tr> </table> <br/> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_border=true&bg_color=00000000&title_color=F28482&text_color=E6EDF3&icon_color=84A59D&ring_color=F6BD60" /> <img src="https://github-readme-stats.vercel.app/api?username=LUNAxKRISHNA&show_icons=true&hide_border=true&bg_color=00000000&title_color=F28482&text_color=1F2328&icon_color=84A59D&ring_color=F6BD60" height="165" alt="GitHub stats" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=E6EDF3" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUNAxKRISHNA&layout=compact&hide_border=true&bg_color=00000000&title_color=F28482&text_color=1F2328" height="165" alt="Top languages" /> </picture>
+<br/><br/>
+
+<sub>Let's build something impactful → <a href="mailto:krishnak535@outlook.com">krishnak535@outlook.com</a></sub>
+
 </div>
